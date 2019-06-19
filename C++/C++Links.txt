@@ -1,0 +1,6 @@
+DS:
+------------
+http://www.geeksforgeeks.org/c-plus-plus/
+https://algorithmsandme.in/
+https://en.wikipedia.org/wiki/Data_structure
+https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners
